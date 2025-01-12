@@ -6,4 +6,4 @@ Saat ini, saya sedang mengikuti program yang diadakan oleh [Dicoding}(https://ww
 
 Dengan mengikuti program ini, saya berharap dapat memperoleh wawasan baru, membangun keterampilan teknis yang lebih kuat, serta memberikan kontribusi yang lebih besar di bidang teknologi di masa depan. Saya sangat bersemangat untuk terus belajar dan berkembang bersama komunitas pengembang lainnya.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zaki-undefined-817300337/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zaki-undefined-817300337/) ku ya.
