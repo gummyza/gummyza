@@ -1,9 +1,9 @@
-Halo, saya **Zaki** <BR>Saya sangat tertarik dalam dunia teknologi, khususnya pemrograman dan pengembangan perangkat lunak.
+Halo, saya Zaki.
 
-Saat ini, saya sedang mengikuti program **front end dan back end developer** yang diselenggarakan oleh **Dicoding**. <BR>Program ini memberi saya kesempatan untuk memperdalam keterampilan coding saya dan bekerja pada proyek nyata. Saya bersemangat untuk belajar lebih banyak tentang berbagai teknologi, bahasa pemrograman, dan alat pengembangan yang digunakan di industri.
+Saya sangat tertarik dalam dunia teknologi, khususnya pemrograman dan pengembangan perangkat lunak. Saya suka coding dan terus mencari tahu hal baru di bidang ini. Saat ini, saya terus belajar dan mengasah keterampilan coding saya melalui berbagai sumber dan proyek.
 
-Di GitHub, saya membagikan proyek-proyek yang saya kerjakan, baik itu untuk tugas sekolah, proyek pribadi, ataupun kontribusi saya dalam proyek open-source. Saya selalu terbuka untuk belajar hal baru, berbagi pengetahuan, dan berkolaborasi dengan komunitas pengembang.
+Saya sering membagikan proyek-proyek yang saya kerjakan di GitHub, baik itu proyek pribadi, tugas sekolah, atau kontribusi saya dalam proyek open-source. Saya selalu terbuka untuk belajar hal baru, berbagi pengetahuan, dan berkolaborasi dengan komunitas pengembang lainnya.
 
-Jika Anda tertarik untuk terhubung lebih lanjut, Anda bisa menghubungi saya melalui LinkedIn di<br> https://www.linkedin.com/in/zaki-undefined-817300337/ .
+Jika Anda tertarik untuk terhubung lebih lanjut atau ingin berdiskusi tentang coding dan teknologi, Anda bisa menghubungi saya melalui LinkedIn di https://www.linkedin.com/in/zaki-undefined-817300337/.
 
 Terima kasih telah mengunjungi profil saya!
